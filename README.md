@@ -10,8 +10,8 @@ The targets for the tests were:
 4. Construct a confidence interval for the state with the highest mean AQI
 
 **Exploring Sampling Methods**
-1. effective sampling of a dataset in order to make it easier to analyse
-2. analyse data on air quality with respect to carbon monoxide—a major air pollutant—and report findings.
+1. Effective sampling of a dataset in order to make it easier to analyse
+2. Analyse data on air quality with respect to carbon monoxide—a major air pollutant—and report findings.
 
 **Hypothesis Testing**
 1. Within California, if the mean AQI in Los Angeles County is statistically different from the rest of California.
